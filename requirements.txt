@@ -1,6 +1,7 @@
 transformers
 sentence-transformers
-streamlit
 faiss-cpu
 datasets
+streamlit
+torch
 numpy
