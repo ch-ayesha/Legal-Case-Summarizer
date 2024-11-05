@@ -1,0 +1,6 @@
+transformers
+sentence-transformers
+streamlit
+faiss-cpu
+datasets
+numpy
